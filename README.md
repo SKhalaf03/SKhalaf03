@@ -1,6 +1,6 @@
 # Hi! I'm Saif 👋
 
-I'm a final-year Software Engineering student with a passion for building projects — both as a professional pursuit and a hobby. I love exploring various areas of software development, always aiming to learn and grow. When I'm not coding, you'll probably find me playing soccer! ⚽
+I'm a final-year Software Engineering student with a passion for building projects — both as a professional pursuit and a hobby. I love exploring various areas of software development, always aiming to learn and grow. When I'm not coding, you'll probably find me playing and watching soccer! ⚽
 
 ## 📈 Technologies & Languages
 
