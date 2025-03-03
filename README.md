@@ -19,10 +19,9 @@ Check out some of my recent projects below:
 
 ## 📫 Contact Me
 
-- **Email:** saifkhalaf@example.com
+- **Email:** saif03.khalaf@gmail.com
 - **LinkedIn:** [Saif Khalaf](https://www.linkedin.com/in/saif-khalaf-293171228/)
 - **Website:** add web later
 
-Feel free to reach out to me for collaborations, inquiries, or just to chat about tech!
-
+Feel free to reach out to me
 ---
