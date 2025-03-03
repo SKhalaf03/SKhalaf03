@@ -1,4 +1,4 @@
-# Saif Khalaf - Portfolio
+# Hi! Im Saif
 
 I'm a final-year Software Engineering student with a passion for building projects — both as a professional pursuit and a hobby. I love exploring various areas of software development, always aiming to learn and grow. When I'm not coding, you'll probably find me playing soccer! ⚽
 
@@ -8,10 +8,6 @@ I'm a final-year Software Engineering student with a passion for building projec
 - **Web Development:** Next.js, React, Node.js,Tailwind CSS, Django
 - **Databases:** MongoDB, MySQL, Prisma, PostgreSQL
 - **Tools & Frameworks:** Docker, scikit-learn, ASP.NET
-
-## 🌐 About Me
-
-I'm a final-year Software Engineering student who enjoys working on exciting projects, both professionally and as a hobby. Whether it's building web applications or diving deep into machine learning models, I love exploring new technologies and contributing to impactful projects.
 
 ## 📚 Projects
 
