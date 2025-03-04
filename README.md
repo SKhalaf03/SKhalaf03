@@ -23,5 +23,5 @@ Check out some of my recent projects below:
 - **LinkedIn:** [Saif Khalaf](https://www.linkedin.com/in/saif-khalaf-293171228/)
 - **Website:** add web later
 
-Feel free to reach out to me
----
+*This profile is only a portfolio to show my self and my work. It is not where i do my work etc.
+
